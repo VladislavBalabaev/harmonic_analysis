@@ -1,0 +1,1 @@
+## Example of using self-made functions of fourier decomposition with visualization
